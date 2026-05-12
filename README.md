@@ -15,8 +15,8 @@ Included categories:
 
 Everything is organized for easier browsing without opening dozens of tabs.
 
-👉 View the full spreadsheet here: https://acbuyhub.org/
-
 From my experience, using a spreadsheet saves a lot of time compared to manually searching products one by one.
 
 If you've been looking for an easier way to find products with ACBuy, this spreadsheet is worth checking out.
+
+👉 View the full spreadsheet here: https://acbuyhub.org/
